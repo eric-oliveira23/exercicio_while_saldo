@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\while_saldo\bin\Debug\while_saldo.exe.config
+C:\Users\Usuario\source\repos\while_saldo\bin\Debug\while_saldo.exe
+C:\Users\Usuario\source\repos\while_saldo\bin\Debug\while_saldo.pdb
+C:\Users\Usuario\source\repos\while_saldo\obj\Debug\while_saldo.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\while_saldo\obj\Debug\while_saldo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\while_saldo\obj\Debug\while_saldo.exe
+C:\Users\Usuario\source\repos\while_saldo\obj\Debug\while_saldo.pdb
